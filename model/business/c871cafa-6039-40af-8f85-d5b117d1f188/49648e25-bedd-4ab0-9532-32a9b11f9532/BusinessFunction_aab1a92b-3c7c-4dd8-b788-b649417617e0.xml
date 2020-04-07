@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastgoedaankoop/verkoop"
+    id="aab1a92b-3c7c-4dd8-b788-b649417617e0">
+  <properties
+      key="CORA-concepttype"
+      value="Hoofdbedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meten klantwaardering huuropzegging"
+    id="6a9669bc-f5a9-43e5-b2ef-12e4965286eb">
+  <properties
+      key="CORA-concepttype"
+      value="Werkproces"/>
+</archimate:BusinessProcess>

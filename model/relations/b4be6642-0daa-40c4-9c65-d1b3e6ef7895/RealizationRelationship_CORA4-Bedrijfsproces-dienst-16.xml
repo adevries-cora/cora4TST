@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-16"
+    documentation="Behandelen urgentie aanvragen woningzoekenden realiseert: Urgentieverklaring woonruimtebemiddeling">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ff8e45fd-3b3a-4961-bd6f-6c7292c068a2.xml#ff8e45fd-3b3a-4961-bd6f-6c7292c068a2"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_c99ded5f-f355-481a-ab31-fdb4661ecca6.xml#c99ded5f-f355-481a-ab31-fdb4661ecca6"/>
+</archimate:RealizationRelationship>

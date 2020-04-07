@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omgevingsbeheer"
+    id="e9e84c6f-7c25-452b-857f-2c522c73c5a2">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

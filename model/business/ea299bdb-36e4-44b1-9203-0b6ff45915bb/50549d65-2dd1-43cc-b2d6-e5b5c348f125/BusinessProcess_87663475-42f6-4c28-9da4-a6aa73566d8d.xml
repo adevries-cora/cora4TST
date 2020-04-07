@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voeren administratief beheer VVE"
+    id="87663475-42f6-4c28-9da4-a6aa73566d8d"
+    documentation="Voeren administratief beheer VVE is het bedrijfsproces waarmee de administratie van de VVE wordt bijgehouden">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

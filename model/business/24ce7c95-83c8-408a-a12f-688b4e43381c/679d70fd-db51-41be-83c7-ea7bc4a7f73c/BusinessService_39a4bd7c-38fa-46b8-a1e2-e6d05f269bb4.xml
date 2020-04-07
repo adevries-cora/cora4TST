@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wijkplan"
+    id="39a4bd7c-38fa-46b8-a1e2-e6d05f269bb4">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Bron"
+      value="CORA 4 product- en proceshierarchie"/>
+</archimate:BusinessService>

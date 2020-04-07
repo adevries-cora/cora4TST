@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaarbegroting"
+    id="6afefd65-b51a-4fda-bcf7-0cab552db21b">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Bron"
+      value="CORA 4 product- en proceshierarchie"/>
+</archimate:BusinessService>

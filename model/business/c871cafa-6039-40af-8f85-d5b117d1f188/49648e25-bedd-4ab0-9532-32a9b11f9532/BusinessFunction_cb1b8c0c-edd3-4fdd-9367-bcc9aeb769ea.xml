@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leefomgevingsbeheer"
+    id="cb1b8c0c-edd3-4fdd-9367-bcc9aeb769ea"
+    documentation="Het actief benutten van ideeën en denkkracht van partners bij het plannen, ontwikkelen, uitvoeren en/of evalueren van het corporatiebeleid.">
+  <properties
+      key="CORA-concepttype"
+      value="Hoofdbedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

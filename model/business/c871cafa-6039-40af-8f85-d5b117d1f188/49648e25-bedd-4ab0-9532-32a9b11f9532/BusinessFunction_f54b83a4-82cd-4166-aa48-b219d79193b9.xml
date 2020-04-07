@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coördinatie mutatieonderhoud"
+    id="f54b83a4-82cd-4166-aa48-b219d79193b9">
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

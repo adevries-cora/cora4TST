@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel VVE beheer"
+    id="a4421ce6-2766-4d43-a84f-591184280182"
+    documentation="Financieel VVE beheer heeft betrekking op het factureren en incasseren van VVEbijdrages, maken van bergrotingen en jaarrekeningen en betalen van facturen">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

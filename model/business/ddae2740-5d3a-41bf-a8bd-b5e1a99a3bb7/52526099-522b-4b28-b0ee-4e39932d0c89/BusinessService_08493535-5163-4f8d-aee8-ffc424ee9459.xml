@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Appartementsrecht"
+    id="08493535-5163-4f8d-aee8-ffc424ee9459"
+    documentation="Verkopen appartementen omvat het leveren van het appartementsrecht aan kopers.">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

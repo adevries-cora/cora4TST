@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastgoedbeleid"
+    id="e8fb964d-e828-4d74-9856-befbad3e6794">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Bron"
+      value="CORA 4 product- en proceshierarchie"/>
+</archimate:BusinessService>

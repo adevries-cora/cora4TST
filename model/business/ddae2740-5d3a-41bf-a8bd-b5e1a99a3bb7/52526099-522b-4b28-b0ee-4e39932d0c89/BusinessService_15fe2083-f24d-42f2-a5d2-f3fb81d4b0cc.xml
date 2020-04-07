@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gecoördineerd mutatieonderhoud"
+    id="15fe2083-f24d-42f2-a5d2-f3fb81d4b0cc"
+    documentation="Mutatie onderhoud omvat het uitvoeren van onderhoudswerkzaamheden en evt. verhuurbevorderende maatregelen in of aan - de verhuurde eenheid waarvoor de huurovereenkomst wordt beeindigd - en waarvoor de 'vertrekkende' huurder zoals in de huurovereenkomst en algemene voorwaarden van de woningcorporatie recht heeft, respectievelijk uit te voeren reparaties op kosten van de vertrekkende huurder kunnen worden uitgevoerd">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

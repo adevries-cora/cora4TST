@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klant"
+    id="fab2e44f-0548-4c3a-97ef-e4f29fc049f0">
+  <properties
+      key="CORA-concepttype"
+      value="Afnemende rol"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessRole>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verkopen eenheden"
+    id="f5f2567f-6c88-4ca3-9a57-bfb85acf0546"
+    documentation="Verkopen eenheden is het bedrijfsproces waarmee eenheden worden verkocht en teruggekocht en optioneel percelen in (onder)erfpacht worden uitgegeven respectievelijk worden beeindigd">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

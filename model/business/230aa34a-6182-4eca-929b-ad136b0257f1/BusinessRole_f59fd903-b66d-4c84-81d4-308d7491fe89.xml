@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Woningzoekende"
+    id="f59fd903-b66d-4c84-81d4-308d7491fe89">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Afnemende rol"/>
+</archimate:BusinessRole>

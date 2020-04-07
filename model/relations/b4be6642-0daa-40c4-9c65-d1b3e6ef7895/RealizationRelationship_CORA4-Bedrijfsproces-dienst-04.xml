@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-04"
+    documentation="Bepalen beleid realiseert: Beleid">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_bd610dc4-5d38-48c5-9c3d-a74cb4622817.xml#bd610dc4-5d38-48c5-9c3d-a74cb4622817"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_8a78b389-4fe7-4cf7-9254-f3dc5208955b.xml#8a78b389-4fe7-4cf7-9254-f3dc5208955b"/>
+</archimate:RealizationRelationship>

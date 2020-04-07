@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afhandelen klantvraag"
+    id="5011f444-ff62-4637-aa1d-3906785e3368"
+    documentation="Afhandelen klantvraag is het bedrijfsproces waarmee vragen van personen die contact opnemen met de woningcorporatie in behandeling worden genomen en afgehandeld">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

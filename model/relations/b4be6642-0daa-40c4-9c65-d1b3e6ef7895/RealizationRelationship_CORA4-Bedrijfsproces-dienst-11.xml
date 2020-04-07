@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-11"
+    documentation="Uitvoeren control realiseert: Control">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_47b1908a-c63b-4ce4-aab4-63077688b120.xml#47b1908a-c63b-4ce4-aab4-63077688b120"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ffd80c67-2d2b-4c67-9f78-e932b830c702.xml#ffd80c67-2d2b-4c67-9f78-e932b830c702"/>
+</archimate:RealizationRelationship>

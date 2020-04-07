@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-32"
+    documentation="Afhandelen klantvraag realiseert: Productinformatie">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5011f444-ff62-4637-aa1d-3906785e3368.xml#5011f444-ff62-4637-aa1d-3906785e3368"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3e0cad54-1fb8-4da2-887b-36a82b3dd497.xml#3e0cad54-1fb8-4da2-887b-36a82b3dd497"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-10"
+    documentation="Opstellen/actualiseren bedrijfsvoeringsplan realiseert: Bedrijfsvoeringsplan">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_7950d429-1cb8-443c-8ebf-cd2b863a44b7.xml#7950d429-1cb8-443c-8ebf-cd2b863a44b7"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_09eec077-bc1a-462a-861f-0bec14816180.xml#09eec077-bc1a-462a-861f-0bec14816180"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verantwoording"
+    id="99608535-da26-4b44-af13-5e0552504bf7"
+    documentation="Het rapporteren naar belanghebbenden binnen en buiten de organisatie over de mate waarin deze voldoet aan verplichtingen en afspraken.">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Sturend"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

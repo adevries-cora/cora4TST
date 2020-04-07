@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VVEbestuur"
+    id="bc632b99-4a2b-4347-8dd2-5bef83cade17">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

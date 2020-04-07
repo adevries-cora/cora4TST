@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-20"
+    documentation="Uitvoeren mutatieonderhoud realiseert: Uitgevoerd Mutatieonderhoud">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_139cf217-f7a4-4ae9-b2ec-00088fab1487.xml#139cf217-f7a4-4ae9-b2ec-00088fab1487"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15fe2083-f24d-42f2-a5d2-f3fb81d4b0cc.xml#15fe2083-f24d-42f2-a5d2-f3fb81d4b0cc"/>
+</archimate:RealizationRelationship>

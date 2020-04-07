@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meerjaren onderhoudsplan"
+    id="53b1ff6f-6edc-41fd-b352-f2775624b5d9">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Bron"
+      value="CORA 4 product- en proceshierarchie"/>
+</archimate:BusinessService>

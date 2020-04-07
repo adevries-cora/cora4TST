@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-25"
+    documentation="Leveren urgentieverklaring herhuisvesting realiseert: Urgentieverklaring herhuisvesting">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a0b85410-8e21-4d0e-8e83-50dd4ef30921.xml#a0b85410-8e21-4d0e-8e83-50dd4ef30921"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_4bc3d7cd-e9b0-4e80-a8a1-c8dabf08d9d0.xml#4bc3d7cd-e9b0-4e80-a8a1-c8dabf08d9d0"/>
+</archimate:RealizationRelationship>

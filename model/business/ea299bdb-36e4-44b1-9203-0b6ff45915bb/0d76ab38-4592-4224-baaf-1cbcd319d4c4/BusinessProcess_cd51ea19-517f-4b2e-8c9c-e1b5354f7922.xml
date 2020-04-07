@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreren vastgoed"
+    id="cd51ea19-517f-4b2e-8c9c-e1b5354f7922">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

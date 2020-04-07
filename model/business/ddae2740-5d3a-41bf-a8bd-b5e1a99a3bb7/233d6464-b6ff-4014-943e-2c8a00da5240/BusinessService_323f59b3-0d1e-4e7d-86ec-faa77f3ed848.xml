@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatie-diensten"
+    id="323f59b3-0d1e-4e7d-86ec-faa77f3ed848"
+    documentation="De woningcorporatie levert extern en intern communicatie-diensten en verzorgt de huisstijl van de woningcorporatie">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

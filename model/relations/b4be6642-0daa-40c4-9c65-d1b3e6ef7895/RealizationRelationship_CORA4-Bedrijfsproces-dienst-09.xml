@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-09"
+    documentation="Opstellen/actualiseren financieel plan realiseert: Financieel plan">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_efc3dd81-200d-4d29-9a4d-bb8d7e9a53c4.xml#efc3dd81-200d-4d29-9a4d-bb8d7e9a53c4"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_891184ea-6c09-497a-a6b5-b2e18076abf3.xml#891184ea-6c09-497a-a6b5-b2e18076abf3"/>
+</archimate:RealizationRelationship>

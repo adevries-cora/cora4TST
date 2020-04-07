@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aangekochte eenheid"
+    id="277d6863-db94-4b00-ab23-dcb8be36cfb9"
+    documentation="De aangekochte eenheid is door de womningcorporatie zelf aangekocht om betreffende eenheid te exploiteren eenheid middels verhuur en/of (onder voorwaarden zoals een terugkoopregeling) te verkopen.">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

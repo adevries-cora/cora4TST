@@ -1,0 +1,11 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interne klanten"
+    id="b406bbca-ab1e-4725-a119-eb0715b78803">
+  <properties
+      key="CORA-concepttype"
+      value="Doelgroep"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:Grouping>

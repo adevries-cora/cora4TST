@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sociaal beheer"
+    id="d9befc65-78d7-4651-a4ef-ad72e3395a74"
+    documentation="Het ontwikkelen en implementeren van beleid dat betrekking heeft op sociale aspecten van de wijken en buurten waarin de woningcorporatie vastgoed exploiteert.">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

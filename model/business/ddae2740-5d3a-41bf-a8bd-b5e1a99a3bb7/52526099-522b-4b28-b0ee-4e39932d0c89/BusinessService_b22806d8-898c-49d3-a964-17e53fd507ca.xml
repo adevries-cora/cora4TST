@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inschrijving"
+    id="b22806d8-898c-49d3-a964-17e53fd507ca"
+    documentation="Woningcorporaties werken doorgaans in een samenwerkingsverband waar woningzoekenden zich kunnen inschrijven. Indien de woningcorporatie niet deelneemt in een samenwerkingsverband, dan schrijft de woningzoekende zich bij betreffende woningcorporatie in en zullen de woningzoekenden alleen bij betreffende woningcorporatie kans maken op een passende woning">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

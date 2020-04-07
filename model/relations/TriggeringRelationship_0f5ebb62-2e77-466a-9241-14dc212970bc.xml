@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opvragen afspraakopties"
+    id="0f5ebb62-2e77-466a-9241-14dc212970bc">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_68f1f6ed-bc24-4699-9099-e76cb70696bd.xml#68f1f6ed-bc24-4699-9099-e76cb70696bd"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_caef935e-1ced-45ab-8e1f-3bd2b3b0f5b6.xml#caef935e-1ced-45ab-8e1f-3bd2b3b0f5b6"/>
+</archimate:TriggeringRelationship>

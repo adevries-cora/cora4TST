@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contactinformatie"
+    id="3e0cad54-1fb8-4da2-887b-36a82b3dd497"
+    documentation="Klanten en andere belanghebbenden kunnen om allerlei redenen contact opnemen met woningcorporaties">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Toelichting"
+      value="Output bedrijfsproces"/>
+</archimate:BusinessService>

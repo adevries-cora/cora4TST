@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastgoedonderhoud"
+    id="0a458590-1821-4123-b206-3eb8999b5a00"
+    documentation="Vastgoedonderhoud zijn de (in opdacht van de woningcorporatie) te verrichten werkzaamheden aan het vastgoed  inclusief het verhelpen van storingen aan installaties met als doel om betreffend vastgoed technisch op peil te houden.">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+</archimate:Product>

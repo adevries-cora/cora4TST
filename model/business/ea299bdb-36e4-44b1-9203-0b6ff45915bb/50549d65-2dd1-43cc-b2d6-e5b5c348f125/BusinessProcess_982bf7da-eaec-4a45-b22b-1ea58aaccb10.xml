@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bevorderen leefbare woonomgeving"
+    id="982bf7da-eaec-4a45-b22b-1ea58aaccb10"
+    documentation="Bevorderen leefbare woonomgeving is het bedrijfsproces waarmee bewoners worden gefaciliteerd in het verbeteren van de woonomgeving">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

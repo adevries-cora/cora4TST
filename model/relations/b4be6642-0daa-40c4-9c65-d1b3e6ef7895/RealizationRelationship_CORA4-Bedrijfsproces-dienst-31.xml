@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-31"
+    documentation="Faciliteren wooncoöperatie realiseert: Medewerking oprichting wooncoöperatie">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_22fc3f24-7add-40a0-87f8-6f9d86f33862.xml#22fc3f24-7add-40a0-87f8-6f9d86f33862"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_387f84af-c678-4c22-b636-3ce1e87886d9.xml#387f84af-c678-4c22-b636-3ce1e87886d9"/>
+</archimate:RealizationRelationship>

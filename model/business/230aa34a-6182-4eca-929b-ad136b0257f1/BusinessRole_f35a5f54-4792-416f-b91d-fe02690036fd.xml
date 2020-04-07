@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deurwaarder"
+    id="f35a5f54-4792-416f-b91d-fe02690036fd">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Leverende rol"/>
+</archimate:BusinessRole>

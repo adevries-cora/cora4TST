@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantbeoordeling terugkoop"
+    id="a5fdf6eb-90de-45e7-b7d5-77bf427bc5c5">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+</archimate:BusinessService>

@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerken terugkoop"
+    id="b4a9d2f0-a620-48bb-a246-224bbd454233">
+  <properties
+      key="CORA-concepttype"
+      value="Werkproces"/>
+</archimate:BusinessProcess>

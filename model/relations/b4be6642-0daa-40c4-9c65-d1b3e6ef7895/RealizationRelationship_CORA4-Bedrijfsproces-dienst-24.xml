@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-24"
+    documentation="Deelnemen VVEvergadering realiseert: Vertegenwoordiging in de VvE">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_01b8e6ac-482f-4da9-9c25-ae48fcc15a03.xml#01b8e6ac-482f-4da9-9c25-ae48fcc15a03"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7c634c83-97a4-47dc-a062-83467100e36c.xml#7c634c83-97a4-47dc-a062-83467100e36c"/>
+</archimate:RealizationRelationship>

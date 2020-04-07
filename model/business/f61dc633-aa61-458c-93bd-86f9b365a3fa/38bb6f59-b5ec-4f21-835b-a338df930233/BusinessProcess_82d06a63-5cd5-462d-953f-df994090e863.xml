@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren intake onderhoudsorder"
+    id="82d06a63-5cd5-462d-953f-df994090e863">
+  <properties
+      key="CORA-concepttype"
+      value="Werkproces"/>
+</archimate:BusinessProcess>

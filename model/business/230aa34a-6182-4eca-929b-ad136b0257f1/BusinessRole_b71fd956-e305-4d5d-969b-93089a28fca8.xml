@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aedes"
+    id="b71fd956-e305-4d5d-969b-93089a28fca8"
+    documentation="Dit is eigenlijk een actor, die de rol 'branchevereniging' heeft">
+  <properties
+      key="CORA-concepttype"
+      value="Afnemende rol"/>
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+</archimate:BusinessRole>

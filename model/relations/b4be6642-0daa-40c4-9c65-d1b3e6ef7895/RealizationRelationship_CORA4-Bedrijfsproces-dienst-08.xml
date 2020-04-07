@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-08"
+    documentation="Opstellen/actualiseren sociaal beheerplan realiseert: Sociaal beheerplan">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d792811b-0d9f-4dc5-aa42-43c2f10b6066.xml#d792811b-0d9f-4dc5-aa42-43c2f10b6066"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_17cb6c35-5075-4b9e-948f-d91ed69f757e.xml#17cb6c35-5075-4b9e-948f-d91ed69f757e"/>
+</archimate:RealizationRelationship>

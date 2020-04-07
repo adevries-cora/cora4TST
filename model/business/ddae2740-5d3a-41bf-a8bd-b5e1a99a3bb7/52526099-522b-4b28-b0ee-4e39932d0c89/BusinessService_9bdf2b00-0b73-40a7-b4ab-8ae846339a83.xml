@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klanttevredenheidstoets"
+    id="9bdf2b00-0b73-40a7-b4ab-8ae846339a83"
+    documentation="Klanten die producten en diensten afnemen van de woningcorporatie kunnen benaderd worden om de waardering van de geleverde dienst of service op (on)gestructureerde wijze te waarderen.">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Toelichting"
+      value="Output bedrijfsproces"/>
+</archimate:BusinessService>

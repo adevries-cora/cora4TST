@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leefbaarheidsplan"
+    id="54b38b1a-057b-4c65-adde-94b701100560">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+  <properties
+      key="Bron"
+      value="CORA 4 product- en proceshierarchie"/>
+</archimate:BusinessService>

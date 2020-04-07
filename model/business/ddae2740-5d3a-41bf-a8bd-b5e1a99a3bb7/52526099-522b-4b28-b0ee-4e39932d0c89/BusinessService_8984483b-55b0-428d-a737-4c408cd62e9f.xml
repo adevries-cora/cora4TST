@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Debiteurenbeheer"
+    id="8984483b-55b0-428d-a737-4c408cd62e9f"
+    documentation="Woningcorporaties innen bedragen bij extrene klanten voor het leveren van diensten en zorgen dat deze op de rekening courant wordt verwerkt.">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Toelichting"
+      value="Output bedrijfsproces"/>
+</archimate:BusinessService>

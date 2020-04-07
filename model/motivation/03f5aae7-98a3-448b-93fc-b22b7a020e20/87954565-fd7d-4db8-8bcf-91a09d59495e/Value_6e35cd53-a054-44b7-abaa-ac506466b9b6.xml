@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="% uitgevoerd binnen doorlooptijd urgentienorm"
+    id="6e35cd53-a054-44b7-abaa-ac506466b9b6"
+    documentation="% opdrachten uitgevoerd binnen doorlooptijd volgens urgentienorm">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

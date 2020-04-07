@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-17"
+    documentation="Verhuren eenheden realiseert: Exclusief gebruiksrecht huureenheid">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5dd033eb-842d-4b56-8463-73945cceacf8.xml#5dd033eb-842d-4b56-8463-73945cceacf8"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_2f519974-e310-4b85-b6b6-6d83958a93c9.xml#2f519974-e310-4b85-b6b6-6d83958a93c9"/>
+</archimate:RealizationRelationship>

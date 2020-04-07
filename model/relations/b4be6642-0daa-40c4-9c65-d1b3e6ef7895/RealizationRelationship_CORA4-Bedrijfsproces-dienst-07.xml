@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-07"
+    documentation="Opstellen/actualiseren MJOB realiseert: Onderhoudsplan">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d0238508-0d22-4aef-a084-bf01e2eb3388.xml#d0238508-0d22-4aef-a084-bf01e2eb3388"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_e1cae9e2-2110-4b37-98d5-788c42460035.xml#e1cae9e2-2110-4b37-98d5-788c42460035"/>
+</archimate:RealizationRelationship>

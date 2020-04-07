@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KvK"
+    id="781fc101-cf51-41a5-85b6-30ac80db14ef"
+    documentation="Hier wordt bedoeld: de rol &quot;beheerder van handelsregister&quot; die uitgevoerd wordt door de Kamer van Koophandel&quot;">
+  <properties
+      key="CORA-concepttype"
+      value="Uitvoerende rol"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessRole>

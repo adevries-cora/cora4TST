@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorlooptijd beoordeling ontvangen offerte "
+    id="b1850216-b7f6-4576-9abf-9b582941bc6d"
+    documentation="Doorlooptijd beoordeling ontvangen offerte ">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

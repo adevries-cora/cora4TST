@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voeren technisch beheer VVE"
+    id="205fae25-6aac-49cd-9b95-68b6f10e0067"
+    documentation="Voeren technisch beheer VVE is het bedrijfsproces waarmee het technisch beheer van de VVE wordt uitgevoerd">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

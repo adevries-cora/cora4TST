@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-33"
+    documentation="Afhandelen klachten dienstverlening realiseert: Klachtbehandeling">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_7b42c0be-dc85-422d-abc9-c8211aac7e36.xml#7b42c0be-dc85-422d-abc9-c8211aac7e36"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bcc4e432-cbe3-4b0f-9e64-7884fc5f0df1.xml#bcc4e432-cbe3-4b0f-9e64-7884fc5f0df1"/>
+</archimate:RealizationRelationship>

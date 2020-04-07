@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteuning"
+    id="ef5f211d-8e75-40ab-bbb3-ca3cf13c6dc1"
+    documentation="Het ervoor zorgen dat de juiste mensen en middelen beschikbaar zijn zodat de overige functies uitgevoerd kunnen worden.">
+  <properties
+      key="CORA-concepttype"
+      value="Hoofdbedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Secundair"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

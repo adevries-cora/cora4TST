@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-28"
+    documentation="Voeren administratief beheer VVE realiseert: Administratief VVE beheer">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_87663475-42f6-4c28-9da4-a6aa73566d8d.xml#87663475-42f6-4c28-9da4-a6aa73566d8d"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_190df4af-4cd7-4f94-8035-1761fc7645a4.xml#190df4af-4cd7-4f94-8035-1761fc7645a4"/>
+</archimate:RealizationRelationship>

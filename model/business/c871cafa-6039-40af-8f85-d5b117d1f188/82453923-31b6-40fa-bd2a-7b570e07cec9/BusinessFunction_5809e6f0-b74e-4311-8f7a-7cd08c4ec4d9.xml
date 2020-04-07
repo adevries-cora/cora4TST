@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastgoedregistratie"
+    id="5809e6f0-b74e-4311-8f7a-7cd08c4ec4d9">
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Secundair"/>
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

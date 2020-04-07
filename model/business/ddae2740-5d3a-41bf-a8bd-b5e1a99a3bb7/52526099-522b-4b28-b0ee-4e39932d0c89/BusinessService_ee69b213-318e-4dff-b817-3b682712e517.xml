@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leefbare woonomgeving"
+    id="ee69b213-318e-4dff-b817-3b682712e517"
+    documentation="Woningcorporaties verrichten inspanningen om de woonomgeving voor de bewoners in de wijken waar zij actief zijn, optimaal te houden">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

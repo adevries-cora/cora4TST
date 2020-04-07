@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coördinatie reparatieonderhoud"
+    id="2fa07dd8-b701-4be4-8d65-5486ab8ee56a">
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Primair"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

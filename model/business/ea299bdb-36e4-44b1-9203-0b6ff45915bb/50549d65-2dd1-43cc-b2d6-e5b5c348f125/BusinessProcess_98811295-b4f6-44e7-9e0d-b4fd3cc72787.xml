@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Her) Ontwikkelingen eenheden"
+    id="98811295-b4f6-44e7-9e0d-b4fd3cc72787"
+    documentation="Woningcorporaties kunnen zelf opdrachtgever zijn voor het ontwikkelen en realiseren van vastgoed met als doel om het vastgoed zelf te gaan exploiteren of (gedeeltelijk) te verkopen aan individuele kopers">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

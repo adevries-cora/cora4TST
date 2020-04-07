@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseren geriefsverbetering/WMO"
+    id="f5d7b3f2-a751-4228-9cd4-77e34f50d01f"
+    documentation="Realiseren geriefsverbetering/WMO is het bedrijfsproces waarmee verzoeken geriefsverbetering/WMO van huurders in behandeling worden genomen, gediagnositeerd, geoffreerd, gerealiseerd en in rekening worden gebracht">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

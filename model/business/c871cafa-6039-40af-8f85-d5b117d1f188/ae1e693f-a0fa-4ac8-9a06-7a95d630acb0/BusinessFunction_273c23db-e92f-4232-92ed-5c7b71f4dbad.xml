@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatieontwikkeling"
+    id="273c23db-e92f-4232-92ed-5c7b71f4dbad"
+    documentation="Het operationaliseren en implementeren van veranderingen in de organisatie.">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Sturend"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

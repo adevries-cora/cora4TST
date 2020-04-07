@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risicomanagement"
+    id="5ab41fe4-2ea0-449e-b4f7-dbe6f7aadd42"
+    documentation="Het bepalen en bewaken van de risico's waaraan de organisatie wordt blootgesteld.">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Sturend"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

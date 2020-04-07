@@ -1,0 +1,11 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reparatieverzoek"
+    id="d266795c-6bb0-44c1-95f0-ed2a9e7850eb">
+  <properties
+      key="CORA-concepttype"
+      value="Gebeurtenis"/>
+  <properties
+      key="Toelichting"
+      value="Trigger Procesketen"/>
+</archimate:BusinessEvent>

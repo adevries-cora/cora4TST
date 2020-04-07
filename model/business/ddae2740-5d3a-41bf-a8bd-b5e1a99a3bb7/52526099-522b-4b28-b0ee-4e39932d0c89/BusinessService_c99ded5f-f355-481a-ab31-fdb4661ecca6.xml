@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Urgentieverklaring woonruimtebemiddeling"
+    id="c99ded5f-f355-481a-ab31-fdb4661ecca6"
+    documentation="Een urgentieverklaring woonruimtebemiddeling heeft betrekking op woonruimteverdeling in ten minste het werkgebied van de (samenwerkende) woningcorporatie(s) en regelt dat woningzoekenden met een urgentieverklaring voorrang hebben op woningzoekenden zonder urgentieverklaring">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

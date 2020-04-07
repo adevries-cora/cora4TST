@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Treasury"
+    id="cf181393-f69c-4e18-ac23-a564023715d4"
+    documentation="De woningcorporatie zorgt voor beheersing van de financiële positie ten einde de bedrijfsvoering blijvend financieel te kunnen realiseren">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

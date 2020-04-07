@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vertegenwoordiging in de VvE"
+    id="7c634c83-97a4-47dc-a062-83467100e36c"
+    documentation="Woningcorporaties met gesplitst vastgoed zijn lid van VVE's. Als eenheden met een appartementsrecht door de woningcorporatie worden verhuurd, dan worden de belangen van die huurders door de woningcorporatie behartigd in de VVE">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

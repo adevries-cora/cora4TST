@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facillitaire diensten"
+    id="92638d77-7998-4951-8e79-5cdb17d096b0"
+    documentation="De woningcorporaties verzorgt facilitaire diensten gericht op het kunnen uitvoeren van de bedrijfsvoering door de organisatie.">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

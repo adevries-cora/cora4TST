@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medewerking oprichting wooncoöperatie"
+    id="387f84af-c678-4c22-b636-3ce1e87886d9"
+    documentation="Indien wooncoöperatie (deel van het) beheer voor rekening neemt, dan zijn woningcorporaties onder voorwaarden verplicht hieraan een bijdrage te leveren">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

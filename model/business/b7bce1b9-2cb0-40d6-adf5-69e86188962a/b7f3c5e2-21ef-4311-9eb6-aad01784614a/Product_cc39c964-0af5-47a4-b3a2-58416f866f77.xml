@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fysieke eenheid"
+    id="cc39c964-0af5-47a4-b3a2-58416f866f77"
+    documentation="Fysieke eenheid betreft een zijn afgebakende deel van een gebouw en/of perceel met een gebruikersfunctie die geëxploiteerd wordt door woningcorporaties door ze te verhuren of te verkopen">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+</archimate:Product>

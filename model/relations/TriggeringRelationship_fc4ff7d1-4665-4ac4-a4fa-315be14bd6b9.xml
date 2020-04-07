@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorgeven statuswijziging reparatieverzoek"
+    id="fc4ff7d1-4665-4ac4-a4fa-315be14bd6b9">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f1d18c95-a635-46dd-8b80-fe67088d4ea9.xml#f1d18c95-a635-46dd-8b80-fe67088d4ea9"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5a30afdf-9ada-44a7-9c4f-e9c818beef7f.xml#5a30afdf-9ada-44a7-9c4f-e9c818beef7f"/>
+</archimate:TriggeringRelationship>

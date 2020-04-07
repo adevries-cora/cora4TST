@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen missie"
+    id="0c928197-9f6c-4420-8555-8a5e8fb1c0f2">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Type proces"
+      value="Sturend"/>
+</archimate:BusinessProcess>

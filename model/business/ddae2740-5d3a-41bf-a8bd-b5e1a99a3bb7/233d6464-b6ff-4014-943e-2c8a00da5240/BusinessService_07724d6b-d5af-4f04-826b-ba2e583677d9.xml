@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingekocht goed, dienst of werk"
+    id="07724d6b-d5af-4f04-826b-ba2e583677d9"
+    documentation="Woninhcorporaties kopen goederen, diensten en werken in om daarmee diensten te kunnen leveren, zowel aan interne als externe klanten">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

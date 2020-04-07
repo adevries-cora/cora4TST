@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveren urgentieverklaring herhuisvesting"
+    id="a0b85410-8e21-4d0e-8e83-50dd4ef30921"
+    documentation="Leveren urgentieverklaring herhuisvesting is het bedrijfsproces waarmee huurders als woningzoekende een urgentieverklaring herhuisvesting wordt verleend">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

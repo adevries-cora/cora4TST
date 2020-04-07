@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gecoördineerd planmatig onderhoud"
+    id="626238ef-9d87-4b30-8e17-e60986115d60"
+    documentation="Planmatig onderhoud heeft betrekking op al het vastgoed dat in bezit is van de woningcorporatie of waarvoor onderhoud- of beheerovereenkomsten zijn afgesloten">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

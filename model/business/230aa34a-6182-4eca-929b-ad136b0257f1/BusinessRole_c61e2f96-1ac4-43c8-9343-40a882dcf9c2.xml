@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aannemer"
+    id="c61e2f96-1ac4-43c8-9343-40a882dcf9c2">
+  <properties
+      key="CORA-concepttype"
+      value="Leverende rol"/>
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+</archimate:BusinessRole>

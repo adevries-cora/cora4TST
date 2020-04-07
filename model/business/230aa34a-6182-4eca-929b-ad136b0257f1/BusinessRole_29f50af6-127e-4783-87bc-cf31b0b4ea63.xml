@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jurist"
+    id="29f50af6-127e-4783-87bc-cf31b0b4ea63">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Uitvoerende rol"/>
+</archimate:BusinessRole>

@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiemanagement"
+    id="13d72b5e-fa53-44bf-9dba-9bd4d0061cc1">
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Secundair"/>
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

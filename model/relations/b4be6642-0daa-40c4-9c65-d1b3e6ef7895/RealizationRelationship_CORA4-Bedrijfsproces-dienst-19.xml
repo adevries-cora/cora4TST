@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-19"
+    documentation="Uitvoeren planmatig onderhoud realiseert: Uitgevoerd Planmatig Onderhoud">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_fa4d920a-621a-4676-a55b-f12d782aa248.xml#fa4d920a-621a-4676-a55b-f12d782aa248"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_626238ef-9d87-4b30-8e17-e60986115d60.xml#626238ef-9d87-4b30-8e17-e60986115d60"/>
+</archimate:RealizationRelationship>

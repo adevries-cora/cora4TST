@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wijkvereniging"
+    id="4fdbe91c-284b-4e9a-9456-39f92c8e457a">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Afnemende rol"/>
+</archimate:BusinessRole>

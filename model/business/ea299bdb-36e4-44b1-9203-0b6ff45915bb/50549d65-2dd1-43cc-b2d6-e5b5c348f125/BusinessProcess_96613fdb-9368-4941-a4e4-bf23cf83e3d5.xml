@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aankopen eenheden"
+    id="96613fdb-9368-4941-a4e4-bf23cf83e3d5"
+    documentation="Woningcorporaties kunnen zelf opdrachtgever zijn voor het ontwikkelen en realiseren van vastgoed met als doel om het vastgoed zelf te gaan exploiteren of (gedeeltelijk) te verkopen aan individuele kopers">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

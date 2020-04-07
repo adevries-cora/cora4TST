@@ -1,0 +1,8 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procesketen reparatieonderhoud"
+    id="5e353532-0ec5-4be4-bc78-1f7b1a2d537d">
+  <properties
+      key="CORA-concepttype"
+      value="Procesketen"/>
+</archimate:BusinessInteraction>

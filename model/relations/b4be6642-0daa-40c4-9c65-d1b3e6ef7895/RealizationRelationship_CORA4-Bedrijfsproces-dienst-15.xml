@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-15"
+    documentation="Inschrijven woningzoekenden realiseert: Inschrijving">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a670124b-7cc5-4f32-af74-d344e5c71e1e.xml#a670124b-7cc5-4f32-af74-d344e5c71e1e"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b22806d8-898c-49d3-a964-17e53fd507ca.xml#b22806d8-898c-49d3-a964-17e53fd507ca"/>
+</archimate:RealizationRelationship>

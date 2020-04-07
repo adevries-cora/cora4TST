@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="% direct goed toegewezen"
+    id="d936da9c-2d83-48dc-add7-4f00d95cf458"
+    documentation="% reparatieverzoeken direct aan juiste uitvoerder toegewezen">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

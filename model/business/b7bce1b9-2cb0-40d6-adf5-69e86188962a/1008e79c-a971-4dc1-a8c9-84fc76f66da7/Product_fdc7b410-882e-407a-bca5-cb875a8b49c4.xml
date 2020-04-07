@@ -1,0 +1,11 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Richting"
+    id="fdc7b410-882e-407a-bca5-cb875a8b49c4">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+</archimate:Product>

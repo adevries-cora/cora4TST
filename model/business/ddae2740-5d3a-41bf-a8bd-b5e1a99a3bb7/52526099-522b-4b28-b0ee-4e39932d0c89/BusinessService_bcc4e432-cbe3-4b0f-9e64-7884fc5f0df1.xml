@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afgehandelde klacht dienstverlening"
+    id="bcc4e432-cbe3-4b0f-9e64-7884fc5f0df1"
+    documentation="Klanten en woningzoekenden kunnen over de afgenomen producten en diensten klachten indienen bij de woningcorporatie  die de klacht naar tevredenheid tract op te lossen. Indien dat niet lukt, kan de klant of woningzoekende naar een onafhankelijke klachtencomissie stappen">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

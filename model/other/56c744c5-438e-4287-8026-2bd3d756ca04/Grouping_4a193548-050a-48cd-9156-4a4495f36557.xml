@@ -1,0 +1,11 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebiedsrelaties"
+    id="4a193548-050a-48cd-9156-4a4495f36557">
+  <properties
+      key="CORA-concepttype"
+      value="Doelgroep"/>
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+</archimate:Grouping>

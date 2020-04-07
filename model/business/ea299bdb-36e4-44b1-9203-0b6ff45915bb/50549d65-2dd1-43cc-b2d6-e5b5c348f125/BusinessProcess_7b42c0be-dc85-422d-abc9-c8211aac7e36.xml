@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afhandelen klachten dienstverlening"
+    id="7b42c0be-dc85-422d-abc9-c8211aac7e36"
+    documentation="Afhandelen klachten dienstverlening is het bedrijfsproces waarmee klachten van klanten in behandeling worden genomen en afgehandeld">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

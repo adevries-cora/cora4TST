@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Koper"
+    id="1b7686e1-c43d-4274-8078-98e9c20dc109">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Afnemende rol"/>
+</archimate:BusinessRole>

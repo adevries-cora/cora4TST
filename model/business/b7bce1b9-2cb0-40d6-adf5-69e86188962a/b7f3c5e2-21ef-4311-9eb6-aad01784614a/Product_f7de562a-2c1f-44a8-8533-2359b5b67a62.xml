@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheerde VvE"
+    id="f7de562a-2c1f-44a8-8533-2359b5b67a62"
+    documentation="Beheerde VvE is de rechtspersoon VvE die het beheer en optioneel het technisch beheer van de VvE heeft ingekocht bij de woningcorporatie.">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+</archimate:Product>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voeren debiteurenbeheer"
+    id="52d1ebf9-4c0c-4b24-9e57-23e9cc0034aa"
+    documentation="Incasseren vorderingen is het bedrijfsproces waarmee vorderingen worden gesignaleerd en indien van toepassing afspraken worden gemaakt hoe de vordering wordt ingelopen">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

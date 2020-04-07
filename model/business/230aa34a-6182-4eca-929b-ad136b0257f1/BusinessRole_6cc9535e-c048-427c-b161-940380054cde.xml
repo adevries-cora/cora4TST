@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huurder"
+    id="6cc9535e-c048-427c-b161-940380054cde">
+  <properties
+      key="CORA-concepttype"
+      value="Afnemende rol"/>
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+</archimate:BusinessRole>

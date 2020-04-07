@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-13"
+    documentation="Uitvoeren benchmark realiseert: Benchmarkrapportage">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4e016621-9f0c-4fd4-b210-29d3666bdd4f.xml#4e016621-9f0c-4fd4-b210-29d3666bdd4f"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_de6fd314-6f38-4f27-bcc8-b487b2f786f4.xml#de6fd314-6f38-4f27-bcc8-b487b2f786f4"/>
+</archimate:RealizationRelationship>

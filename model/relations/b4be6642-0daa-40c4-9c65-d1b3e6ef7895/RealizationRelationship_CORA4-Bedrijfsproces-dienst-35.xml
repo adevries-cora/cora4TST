@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-35"
+    documentation="Ontwikkelingen eenheden realiseert: Fysieke eenheden">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_98811295-b4f6-44e7-9e0d-b4fd3cc72787.xml#98811295-b4f6-44e7-9e0d-b4fd3cc72787"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ca9cf324-c3ad-46d3-b2ce-b8973c058893.xml#ca9cf324-c3ad-46d3-b2ce-b8973c058893"/>
+</archimate:RealizationRelationship>

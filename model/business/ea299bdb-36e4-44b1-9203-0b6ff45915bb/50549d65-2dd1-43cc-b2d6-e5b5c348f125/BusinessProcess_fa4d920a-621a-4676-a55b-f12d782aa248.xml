@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coördineren planmatig onderhoud"
+    id="fa4d920a-621a-4676-a55b-f12d782aa248"
+    documentation="Uitvoeren planmatig onderhoud is het bedrijfsproces waarmee het voorbereiden en uitvoeren van geplande onderhoudswerkzaamheden en het begeleiden van bewoners bij die voorbereiding en uitvoering worden gerealiseerd">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

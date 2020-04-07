@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-12"
+    documentation="Uitvoeren risicomanagement realiseert: Risicomanagement">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_84d03cf1-78e0-4cee-b950-b7cba2d6896e.xml#84d03cf1-78e0-4cee-b950-b7cba2d6896e"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b642185c-7bd2-443c-a5c5-dd8be9c5fd9e.xml#b642185c-7bd2-443c-a5c5-dd8be9c5fd9e"/>
+</archimate:RealizationRelationship>

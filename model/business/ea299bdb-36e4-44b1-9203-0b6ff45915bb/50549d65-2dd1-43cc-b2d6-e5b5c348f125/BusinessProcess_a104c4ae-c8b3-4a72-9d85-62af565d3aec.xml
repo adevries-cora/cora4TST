@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Matchen"
+    id="a104c4ae-c8b3-4a72-9d85-62af565d3aec"
+    documentation="Behandelen urgentie aanvragen woningzoekenden is het bedrijfsproces waarmee aanvragen van woningzoekenden in behandeling worden genomen en worden afgehandeld">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

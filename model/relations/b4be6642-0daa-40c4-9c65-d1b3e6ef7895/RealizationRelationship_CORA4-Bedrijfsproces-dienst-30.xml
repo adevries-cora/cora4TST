@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-30"
+    documentation="Voeren technisch beheer VVE realiseert: Technisch VVE beheer">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_205fae25-6aac-49cd-9b95-68b6f10e0067.xml#205fae25-6aac-49cd-9b95-68b6f10e0067"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_53f43077-9f04-46e1-8c5d-be6d4b861fa0.xml#53f43077-9f04-46e1-8c5d-be6d4b861fa0"/>
+</archimate:RealizationRelationship>

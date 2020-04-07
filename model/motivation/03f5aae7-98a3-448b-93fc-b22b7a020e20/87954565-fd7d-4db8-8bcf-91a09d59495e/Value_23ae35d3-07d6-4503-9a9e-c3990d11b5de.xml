@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoering reparatie conform kwaliteitsnormen"
+    id="23ae35d3-07d6-4503-9a9e-c3990d11b5de"
+    documentation="Uitvoering conform kwaliteitsnormen">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

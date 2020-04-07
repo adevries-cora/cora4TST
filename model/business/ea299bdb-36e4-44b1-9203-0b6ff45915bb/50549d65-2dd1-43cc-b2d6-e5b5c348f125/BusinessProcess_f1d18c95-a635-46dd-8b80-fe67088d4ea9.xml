@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coördineren reparatieonderhoud"
+    id="f1d18c95-a635-46dd-8b80-fe67088d4ea9"
+    documentation="Uitvoeren reparatieonderhoud is het bedrijfsproces waarmee reparatieverzoeken van huurders in behandeling worden genomen, gediagnositeerd, gerepareerd en indien van toepassing in rekening worden gebracht">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Type proces"
+      value="Primair"/>
+</archimate:BusinessProcess>

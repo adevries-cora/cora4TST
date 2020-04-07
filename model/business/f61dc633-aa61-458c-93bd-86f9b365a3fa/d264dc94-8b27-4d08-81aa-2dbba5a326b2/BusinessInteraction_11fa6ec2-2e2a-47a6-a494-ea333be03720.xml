@@ -1,0 +1,8 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procesketen Incasso"
+    id="11fa6ec2-2e2a-47a6-a494-ea333be03720">
+  <properties
+      key="CORA-concepttype"
+      value="Procesketen"/>
+</archimate:BusinessInteraction>

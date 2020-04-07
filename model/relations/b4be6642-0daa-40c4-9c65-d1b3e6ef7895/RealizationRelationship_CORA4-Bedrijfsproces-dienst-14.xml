@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-14"
+    documentation="Verantwoorden bedrijfsvoering realiseert: Verantwoording">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4dcf769d-07a4-49ad-93cc-df82b246c91a.xml#4dcf769d-07a4-49ad-93cc-df82b246c91a"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_92021477-2850-42d9-8f4e-19695936b679.xml#92021477-2850-42d9-8f4e-19695936b679"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doorgeven offerteopdracht"
+    id="4b370d43-f39b-40ea-8f92-24be473042cf">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_9f667752-fb39-4401-b8c5-40aee245e59c.xml#9f667752-fb39-4401-b8c5-40aee245e59c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_70bc2c2e-1076-4ed7-bd2a-4ac2b1579339.xml#70bc2c2e-1076-4ed7-bd2a-4ac2b1579339"/>
+</archimate:TriggeringRelationship>

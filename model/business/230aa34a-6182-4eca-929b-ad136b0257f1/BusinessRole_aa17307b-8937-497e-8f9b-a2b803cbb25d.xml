@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wijk-/buurt-bewoner"
+    id="aa17307b-8937-497e-8f9b-a2b803cbb25d">
+  <properties
+      key="CORA-concepttype"
+      value="Afnemende rol"/>
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+</archimate:BusinessRole>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="opdracht tot inspectie"
+    id="dde84fd9-e22d-4f76-af77-da10e26dbdc9">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_3992651c-c5bc-4d26-98d3-b328c80f7cf1.xml#3992651c-c5bc-4d26-98d3-b328c80f7cf1"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_e3332f90-df1b-4440-9d36-d5c7f5da051c.xml#e3332f90-df1b-4440-9d36-d5c7f5da051c"/>
+</archimate:TriggeringRelationship>

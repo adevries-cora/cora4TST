@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-34"
+    documentation="Meten klantwaardering realiseert: Klanttevredenheidstoets">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_8bb69a42-0799-4294-aff5-ea1887a9c6d1.xml#8bb69a42-0799-4294-aff5-ea1887a9c6d1"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_9bdf2b00-0b73-40a7-b4ab-8ae846339a83.xml#9bdf2b00-0b73-40a7-b4ab-8ae846339a83"/>
+</archimate:RealizationRelationship>

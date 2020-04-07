@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gecoördineerd reparatieonderhoud"
+    id="70d661cb-f8ed-4337-94cd-75eaa9288531"
+    documentation="Reparatie onderhoud omvat het uitvoeren van onderhoudswerkzaamheden op of aan al het vastgoed dat in bezit is van de woningcorporatie of waarvoor onderhoud- of beheerovereenkomsten zijn afgesloten en waarvoor de huurder van de verhuurde eenheid zoals in de huurovereenkomst en algemene voorwaarden van de woningcorporatie recht heeft, respectievelijk op kosten van de huurder kan laten uitvoeren">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Toelichting"
+      value="Output bedrijfsproces"/>
+</archimate:BusinessService>

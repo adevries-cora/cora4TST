@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technisch VVE beheer"
+    id="53f43077-9f04-46e1-8c5d-be6d4b861fa0"
+    documentation="Tdechnisch VVE beheer heeft betrekking op het maken van onderhoudsbegrotingen en het inkopen van onderhoud bij leveranciers">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

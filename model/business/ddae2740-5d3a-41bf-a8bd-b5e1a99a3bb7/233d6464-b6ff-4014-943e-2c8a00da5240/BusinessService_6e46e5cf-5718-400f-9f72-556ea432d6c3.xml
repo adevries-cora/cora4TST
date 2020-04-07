@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiële administratie"
+    id="6e46e5cf-5718-400f-9f72-556ea432d6c3"
+    documentation="Woningcorporaties houden dagelijkks de verlies- en winstrekening bij van de ele organisatie">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

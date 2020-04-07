@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholdersmanagement"
+    id="c3bb7ea2-4703-4e37-b3ee-4e32c52fe1b0"
+    documentation="Het afhandelen van directe contacten met mensen binnen en buiten de organisatie en het beheren van de relatie met deze mensen.">
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Secundair"/>
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

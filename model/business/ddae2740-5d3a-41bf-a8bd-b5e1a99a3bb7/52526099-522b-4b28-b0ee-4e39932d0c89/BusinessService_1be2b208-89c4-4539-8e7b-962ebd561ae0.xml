@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verrekende service-/stookkosten"
+    id="1be2b208-89c4-4539-8e7b-962ebd561ae0"
+    documentation="Verrekenen service-/ stookkosten omvat het leveren van service en/of stookproducten tegen betaling aan huurders van verhuurde eenheden, die - afhankelijk van het soort service- en/of stookproduct - op basis van voorschotbedragen in rekening worden gebracht en periodiek worden verrekend op basis van het werkelijk verbruik.">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-03"
+    documentation="Bepalen visie realiseert: Visie">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_11f2408f-130b-4c15-956f-99988b2c84b1.xml#11f2408f-130b-4c15-956f-99988b2c84b1"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bf0f2782-cc59-40f6-9d1c-7fa57b34960f.xml#bf0f2782-cc59-40f6-9d1c-7fa57b34960f"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantbeoordeling huuropzegging"
+    id="7b02b4d7-a8a2-405e-af5d-3fe550dfc4de">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+</archimate:BusinessService>

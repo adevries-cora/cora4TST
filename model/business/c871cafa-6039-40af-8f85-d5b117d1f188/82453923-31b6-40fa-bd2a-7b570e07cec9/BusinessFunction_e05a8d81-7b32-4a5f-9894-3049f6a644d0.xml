@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastgoedinspectie"
+    id="e05a8d81-7b32-4a5f-9894-3049f6a644d0">
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Secundair"/>
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessFunction>

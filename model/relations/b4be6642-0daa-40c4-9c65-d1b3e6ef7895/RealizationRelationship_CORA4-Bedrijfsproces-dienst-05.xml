@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-05"
+    documentation="Opstellen/actualiseren gebiedsplan realiseert: Gebiedsplan">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_205f2fc1-e720-4207-9fa6-3211d3668e7b.xml#205f2fc1-e720-4207-9fa6-3211d3668e7b"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_63f2c499-2c3a-4a47-9c17-cc97121ed162.xml#63f2c499-2c3a-4a47-9c17-cc97121ed162"/>
+</archimate:RealizationRelationship>

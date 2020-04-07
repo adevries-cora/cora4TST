@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crediteurenbeheer"
+    id="bda6ee3b-aa4c-406a-90cc-75de8a8c5e69"
+    documentation="Woningcorporaties betalen op basis van vigerende overeenkomsten facturen van derden">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Toelichting"
+      value="Output bedrijfsproces"/>
+</archimate:BusinessService>

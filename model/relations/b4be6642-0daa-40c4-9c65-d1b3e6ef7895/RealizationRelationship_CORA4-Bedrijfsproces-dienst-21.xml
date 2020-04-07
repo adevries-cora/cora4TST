@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-21"
+    documentation="Uitvoeren reparatieonderhoud realiseert: Uitgevoerd Reparatieonderhoud">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f1d18c95-a635-46dd-8b80-fe67088d4ea9.xml#f1d18c95-a635-46dd-8b80-fe67088d4ea9"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_70d661cb-f8ed-4337-94cd-75eaa9288531.xml#70d661cb-f8ed-4337-94cd-75eaa9288531"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamanagement"
+    id="b715d20f-3bc5-4f51-9d82-2b6b2baf3e36"
+    documentation="De woningcorporaties regeistreerd en actualiseerd data ter ondersteuning van de oinformatiebehoefte van de woningcoporaties benodigd voor het uitvoeren van de bedrijfsvoering">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

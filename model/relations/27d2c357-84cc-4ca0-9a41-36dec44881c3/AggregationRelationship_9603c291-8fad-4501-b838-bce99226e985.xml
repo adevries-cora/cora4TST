@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="groepeert"
+    id="9603c291-8fad-4501-b838-bce99226e985">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_0a458590-1821-4123-b206-3eb8999b5a00.xml#0a458590-1821-4123-b206-3eb8999b5a00"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_15fe2083-f24d-42f2-a5d2-f3fb81d4b0cc.xml#15fe2083-f24d-42f2-a5d2-f3fb81d4b0cc"/>
+</archimate:AggregationRelationship>

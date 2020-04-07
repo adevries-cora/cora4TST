@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitgevoerde onderhoudsorder"
+    id="5e7c0f6f-f109-4f04-8a2d-601d9150f395"
+    documentation="Onderhoudsorders omvatten de omschrijving van de werkzaamheden die door de uitvoerder van het vastgoedonderhoud worden gerealiseerd">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Toelichting"
+      value="Output bedrijfsproces"/>
+</archimate:BusinessService>

@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incasso"
+    id="7de3fe35-869f-4309-b975-39314cc09b08"
+    documentation="Woningcorporaties trachten betaalachterstanden van klanten maximaal te voorkomen. Indien er toch een betaalachterstand ontstaat, worden inspanningen gepleegd om de achterstand in te lopen">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Toelichting"
+      value="Output bedrijfsproces"/>
+</archimate:BusinessService>

@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Individuele verbetering eenheid"
+    id="7af133bf-e104-4512-abc3-18f42e549a23"
+    documentation="Huurders kunnen de corporatie verzoeken om geriefsverbeteringen in (of aan het gebouw van) de verhuurde eenheid uit te voeren waarvoor kosten in rekening worden gebracht waar vooraf afspraken zijn gemaakt wie deze kosten voor rekening nemen">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-29"
+    documentation="Voeren financieel beheer VVE realiseert: Financieel VVE beheer">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a06eb461-c57c-46a0-8140-a9e3c03c9080.xml#a06eb461-c57c-46a0-8140-a9e3c03c9080"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a4421ce6-2766-4d43-a84f-591184280182.xml#a4421ce6-2766-4d43-a84f-591184280182"/>
+</archimate:RealizationRelationship>

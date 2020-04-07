@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faciliteren wooncoöperatie"
+    id="22fc3f24-7add-40a0-87f8-6f9d86f33862"
+    documentation="Faciliteren wooncoöperatie is het bedrijfsproces waarmee initiatieven tot het oprichten van wooncoöperaties worden gefaciliteerd en overeenkomsten worden gesloten over het eigendom en beheer van het (gezamenlijk) te beheren vastgoed">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

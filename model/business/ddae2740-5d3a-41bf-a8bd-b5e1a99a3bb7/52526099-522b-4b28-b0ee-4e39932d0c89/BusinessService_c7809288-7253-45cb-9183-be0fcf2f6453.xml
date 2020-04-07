@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bloot eigendom koopeenheid"
+    id="c7809288-7253-45cb-9183-be0fcf2f6453"
+    documentation="Verkopen eenheden omvat het leveren van het eigendomsrecht van perceel plus opstal of het eigendomrecht van opstal in combinatie met het erfrecht van perceel aan kopers.">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

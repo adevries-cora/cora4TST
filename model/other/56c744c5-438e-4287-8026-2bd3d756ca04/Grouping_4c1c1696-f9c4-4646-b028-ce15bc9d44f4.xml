@@ -1,0 +1,12 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overige rollen"
+    id="4c1c1696-f9c4-4646-b028-ce15bc9d44f4"
+    documentation="hernoemd van ‘overige’ naar ‘overige rollen’ om herkenbaar te maken in modellen">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Doelgroep"/>
+</archimate:Grouping>

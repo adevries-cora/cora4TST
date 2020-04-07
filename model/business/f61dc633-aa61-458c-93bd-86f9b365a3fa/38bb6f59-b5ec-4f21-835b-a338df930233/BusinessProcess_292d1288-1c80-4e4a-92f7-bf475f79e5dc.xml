@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controleren uitvoering onderhoudsorder"
+    id="292d1288-1c80-4e4a-92f7-bf475f79e5dc">
+  <properties
+      key="CORA-concepttype"
+      value="Werkproces"/>
+</archimate:BusinessProcess>

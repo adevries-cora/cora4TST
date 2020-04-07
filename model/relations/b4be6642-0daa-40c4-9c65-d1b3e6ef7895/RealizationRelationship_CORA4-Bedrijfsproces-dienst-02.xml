@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-02"
+    documentation="Bepalen missie realiseert: Missie">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_0c928197-9f6c-4420-8555-8a5e8fb1c0f2.xml#0c928197-9f6c-4420-8555-8a5e8fb1c0f2"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_a901d0fa-1cfe-44cb-ac62-6148b6854d1f.xml#a901d0fa-1cfe-44cb-ac62-6148b6854d1f"/>
+</archimate:RealizationRelationship>

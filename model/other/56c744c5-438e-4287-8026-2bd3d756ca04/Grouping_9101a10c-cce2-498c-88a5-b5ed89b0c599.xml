@@ -1,0 +1,11 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe klanten"
+    id="9101a10c-cce2-498c-88a5-b5ed89b0c599">
+  <properties
+      key="CORA-concepttype"
+      value="Doelgroep"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:Grouping>

@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personele diensten"
+    id="452073ba-49ba-49ee-8e54-265925b586d2"
+    documentation="De woningcorporatie heeft als werkgever voor het uitvoeren van de bedrijfsvoering medewerkers in dienst">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

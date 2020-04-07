@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Urgentieverklaring herhuisvesting"
+    id="4bc3d7cd-e9b0-4e80-a8a1-c8dabf08d9d0"
+    documentation="Een urgentieverklaring herhuisvesting heeft betrekking op woonruimteverdeling in ten minste het werkgebied van de (samenwerkende) woningcorporatie(s) en regelt dat woningzoekenden met een urgentieverklaring voorrang hebben op woningzoekenden zonder urgentieverklaring">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

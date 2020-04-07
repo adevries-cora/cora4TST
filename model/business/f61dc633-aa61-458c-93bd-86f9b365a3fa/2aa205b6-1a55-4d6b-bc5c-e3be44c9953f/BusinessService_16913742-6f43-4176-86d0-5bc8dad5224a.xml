@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantbeoordeling reparatie"
+    id="16913742-6f43-4176-86d0-5bc8dad5224a">
+  <properties
+      key="Toelichting"
+      value="Output werkproces"/>
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsservice"/>
+</archimate:BusinessService>

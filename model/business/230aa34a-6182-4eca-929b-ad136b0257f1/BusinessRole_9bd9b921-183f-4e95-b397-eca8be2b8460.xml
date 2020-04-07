@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sociale dienst"
+    id="9bd9b921-183f-4e95-b397-eca8be2b8460">
+  <properties
+      key="CORA-concepttype"
+      value="Uitvoerende rol"/>
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+</archimate:BusinessRole>

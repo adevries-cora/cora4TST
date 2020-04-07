@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Her)ontwikkelde eenheid"
+    id="ca9cf324-c3ad-46d3-b2ce-b8973c058893"
+    documentation="De (her)ontwikkelde eenheid is door de womningcorporatie zelf (her)ontwikkeld om betreffende eenheid te exploiteren eenheid middels verhuur en/of (onder voorwaarden zoals een terugkoopregeling) te verkopen.">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

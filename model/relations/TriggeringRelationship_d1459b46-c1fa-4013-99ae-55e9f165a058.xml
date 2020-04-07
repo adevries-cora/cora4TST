@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doorgeven reparatieverzoek"
+    id="d1459b46-c1fa-4013-99ae-55e9f165a058">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5a30afdf-9ada-44a7-9c4f-e9c818beef7f.xml#5a30afdf-9ada-44a7-9c4f-e9c818beef7f"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d383612a-1a0e-4f1d-87c4-0b5e11bb15c3.xml#d383612a-1a0e-4f1d-87c4-0b5e11bb15c3"/>
+</archimate:TriggeringRelationship>

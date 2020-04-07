@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verrekenen service-/stookkosten"
+    id="cd580964-34c7-437a-85e7-568caa700195"
+    documentation="Verrekenen service-/stookkosten is het bedrijfsproces waarmee het bepalen, leveren en verrekenen van service-/stookcomponenten wordt uitgevoerd">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Politie"
+    id="285a16b5-ee8d-4cc4-ad2e-4a2c47404ecd">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Uitvoerende rol"/>
+</archimate:BusinessRole>

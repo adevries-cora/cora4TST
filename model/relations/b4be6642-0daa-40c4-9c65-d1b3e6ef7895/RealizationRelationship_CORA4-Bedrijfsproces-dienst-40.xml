@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-40"
+    documentation="Bevorderen leefbare woonomgeving realiseert: Leefbare woonomgeving">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_982bf7da-eaec-4a45-b22b-1ea58aaccb10.xml#982bf7da-eaec-4a45-b22b-1ea58aaccb10"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_ee69b213-318e-4dff-b817-3b682712e517.xml#ee69b213-318e-4dff-b817-3b682712e517"/>
+</archimate:RealizationRelationship>

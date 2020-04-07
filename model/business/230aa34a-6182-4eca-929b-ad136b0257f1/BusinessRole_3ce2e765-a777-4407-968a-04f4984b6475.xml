@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WSW"
+    id="3ce2e765-a777-4407-968a-04f4984b6475"
+    documentation="Waarborgfonds Sociale Woningbouw is eigenlijk een actor, met de rol 'waarborgfonds'">
+  <properties
+      key="CORA-concepttype"
+      value="Uitvoerende rol"/>
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+</archimate:BusinessRole>

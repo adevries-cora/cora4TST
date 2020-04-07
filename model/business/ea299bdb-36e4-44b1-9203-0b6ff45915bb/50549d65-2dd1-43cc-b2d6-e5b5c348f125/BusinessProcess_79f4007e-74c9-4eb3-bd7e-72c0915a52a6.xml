@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verkopen appartementen"
+    id="79f4007e-74c9-4eb3-bd7e-72c0915a52a6"
+    documentation="Verkopen appartementen is het bedrijfsproces waarmee eenheden worden verkocht en teruggekocht">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

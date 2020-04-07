@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorlooptijd uitgevoerd buiten normbedrag"
+    id="00f03b54-fb3d-40d6-986f-3be88046df6f"
+    documentation="Doorlooptijd uitgevoerde opdrachten buiten normbedrag">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

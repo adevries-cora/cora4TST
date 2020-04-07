@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-27"
+    documentation="Verkopen appartementen realiseert: Appartementsrecht">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_79f4007e-74c9-4eb3-bd7e-72c0915a52a6.xml#79f4007e-74c9-4eb3-bd7e-72c0915a52a6"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_08493535-5163-4f8d-aee8-ffc424ee9459.xml#08493535-5163-4f8d-aee8-ffc424ee9459"/>
+</archimate:RealizationRelationship>

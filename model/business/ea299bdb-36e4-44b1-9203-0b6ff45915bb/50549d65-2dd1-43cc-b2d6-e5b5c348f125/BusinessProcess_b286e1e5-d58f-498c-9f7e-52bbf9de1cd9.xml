@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voeren financiële administratie"
+    id="b286e1e5-d58f-498c-9f7e-52bbf9de1cd9"
+    documentation="Afhandelen klachten dienstverlening is het bedrijfsproces waarmee klachten van klanten in behandeling worden genomen en afgehandeld">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

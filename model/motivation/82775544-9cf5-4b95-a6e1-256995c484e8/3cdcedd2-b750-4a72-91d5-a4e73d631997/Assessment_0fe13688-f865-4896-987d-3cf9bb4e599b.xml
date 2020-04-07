@@ -1,0 +1,11 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Foutief factureren"
+    id="0fe13688-f865-4896-987d-3cf9bb4e599b">
+  <properties
+      key="Voorbeelden"
+      value="Dubbel, te veel, onjuist"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:Assessment>

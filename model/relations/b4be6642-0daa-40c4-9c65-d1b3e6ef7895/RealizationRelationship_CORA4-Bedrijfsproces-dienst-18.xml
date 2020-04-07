@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert"
+    id="CORA4-Bedrijfsproces-dienst-18"
+    documentation="Verrekenen service-/stookkosten realiseert: Verrekende service-/stookkosten">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cd580964-34c7-437a-85e7-568caa700195.xml#cd580964-34c7-437a-85e7-568caa700195"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_1be2b208-89c4-4539-8e7b-962ebd561ae0.xml#1be2b208-89c4-4539-8e7b-962ebd561ae0"/>
+</archimate:RealizationRelationship>

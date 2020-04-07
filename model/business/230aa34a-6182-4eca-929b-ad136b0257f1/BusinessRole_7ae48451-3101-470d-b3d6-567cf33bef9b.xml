@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Woningcorporatie"
+    id="7ae48451-3101-470d-b3d6-567cf33bef9b">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Afnemende rol"/>
+</archimate:BusinessRole>

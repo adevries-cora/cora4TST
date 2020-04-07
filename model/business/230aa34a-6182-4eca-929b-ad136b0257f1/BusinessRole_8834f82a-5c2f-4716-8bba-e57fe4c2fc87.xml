@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notaris"
+    id="8834f82a-5c2f-4716-8bba-e57fe4c2fc87">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Uitvoerende rol"/>
+</archimate:BusinessRole>

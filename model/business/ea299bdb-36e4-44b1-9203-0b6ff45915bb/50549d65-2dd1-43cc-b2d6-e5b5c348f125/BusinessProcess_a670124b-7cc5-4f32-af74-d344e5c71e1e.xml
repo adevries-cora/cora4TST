@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inschrijven woningzoekenden"
+    id="a670124b-7cc5-4f32-af74-d344e5c71e1e"
+    documentation="Inschrijven woningzoekenden is het bedrijfsproces waarmee personen en (te vormen) huishoudens worden geregistereerd als woningzoekende inclusief de woonwensen">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

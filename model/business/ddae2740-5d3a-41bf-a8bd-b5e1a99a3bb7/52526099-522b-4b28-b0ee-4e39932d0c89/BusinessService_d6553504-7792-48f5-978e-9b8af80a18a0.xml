@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gematchte eenheid"
+    id="d6553504-7792-48f5-978e-9b8af80a18a0"
+    documentation="De gematchte eenheid is de eenheid waarvoor de woningzoekende belangstelling heeft getoond en als kandidaat is toegelaten. ">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessService>

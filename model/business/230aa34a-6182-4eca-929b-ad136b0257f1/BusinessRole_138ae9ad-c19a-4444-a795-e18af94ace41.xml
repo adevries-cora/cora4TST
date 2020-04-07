@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wooncoöperatie"
+    id="138ae9ad-c19a-4444-a795-e18af94ace41"
+    documentation="zie: http://www.woningwet2015.nl/sites/www-woningwet2015-nl.f3.oww.net/files/documenten/i.8_presentatie_workshop_wooncooperatie_17_juni_2015.pdf">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Afnemende rol"/>
+</archimate:BusinessRole>

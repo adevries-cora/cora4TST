@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verhuurde eenheid"
+    id="47f4592e-1cbb-42b6-8ab4-e1f5480a1e51"
+    documentation="Verhuurde eenheid is (de combinatie van) een fysieke woning, bedrijfsruimte, parkeerplaats enzovoorts, waarvan de huurder het exclusieve gebruiksrecht heeft en op basis van de huurovereenkomst en algemene voorwaarden van de woningcorporatie recht heeft op aanvullende diensten.">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+</archimate:Product>

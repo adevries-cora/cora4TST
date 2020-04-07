@@ -1,0 +1,11 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projectontwikkelaar"
+    id="1b066670-a1f8-4d56-b079-9be256144d89">
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+  <properties
+      key="CORA-concepttype"
+      value="Uitvoerende rol"/>
+</archimate:BusinessRole>

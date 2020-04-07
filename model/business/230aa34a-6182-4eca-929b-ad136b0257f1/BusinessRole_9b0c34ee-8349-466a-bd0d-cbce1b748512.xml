@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autoriteit woningcorporaties"
+    id="9b0c34ee-8349-466a-bd0d-cbce1b748512"
+    documentation="Autoriteit woningcorporaties (voorheen Autoriteit wonen) is eigenlijk een actor, met de rol toezichthouder">
+  <properties
+      key="CORA-concepttype"
+      value="Leverende rol"/>
+  <properties
+      key="Bron"
+      value="CORA 3.1"/>
+</archimate:BusinessRole>

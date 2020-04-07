@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteunde wooncoöperatie"
+    id="5a11c9b7-e489-44a0-82ea-79d59630d311"
+    documentation="Ondersteunde wooncoöperatie is de wooncoöperatie die met hulp van de woningcorporatie wordt opgericht en optioneel een beheerovereenkomst heeft gesloten met de woningcorporatie over het beheer van het vastgoed.">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+</archimate:Product>

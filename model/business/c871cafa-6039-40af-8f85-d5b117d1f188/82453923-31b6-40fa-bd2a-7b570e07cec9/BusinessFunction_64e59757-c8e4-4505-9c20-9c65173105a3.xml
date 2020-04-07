@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatie"
+    id="64e59757-c8e4-4505-9c20-9c65173105a3"
+    documentation="Het ervoor zorgdragen dat de organisatie zich op de juiste wijze uit naar interne en externe partijen.">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Soort bedrijfsfunctie"
+      value="Secundair"/>
+</archimate:BusinessFunction>

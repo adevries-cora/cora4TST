@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Passende eenheid"
+    id="ce9ebfc2-4e52-4a9f-8abf-45e5b4febd09"
+    documentation="Passende eenheid is (de combinatie van) een fysieke woning, bedrijfsruimte, parkeerplaats enzovoorts, waarvan de 'woningzoekende' op basis van vigerende wet- en regelgeving het gebruiksrecht of eigendomsrecht mag verkrijgen en die zo goed als mogelijk aansluit bij de wensen van de huurder/koper.">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+</archimate:Product>

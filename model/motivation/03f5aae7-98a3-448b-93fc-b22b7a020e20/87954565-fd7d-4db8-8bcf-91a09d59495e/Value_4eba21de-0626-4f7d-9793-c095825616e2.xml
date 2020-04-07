@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorlooptijd eerste contact huurder"
+    id="4eba21de-0626-4f7d-9793-c095825616e2"
+    documentation="Doorlooptijd tot eerste contact met huurder">
+  <properties
+      key="CORA-concepttype"
+      value="Proces KPi"/>
+</archimate:Value>

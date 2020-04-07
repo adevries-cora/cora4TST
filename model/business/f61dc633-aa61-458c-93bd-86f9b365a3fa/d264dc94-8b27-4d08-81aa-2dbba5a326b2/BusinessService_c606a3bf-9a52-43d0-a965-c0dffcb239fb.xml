@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorkomen/beperken betaalachterstand"
+    id="c606a3bf-9a52-43d0-a965-c0dffcb239fb">
+  <properties
+      key="CORA-concepttype"
+      value="Dienst"/>
+  <properties
+      key="Toelichting"
+      value="Output procesketen"/>
+</archimate:BusinessService>

@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klantrelatie"
+    id="17aeea0a-d169-4c5f-bc9f-947a0205b02b"
+    documentation="Informatieverstrekking is de mondelinge en/of schriftelijke informatie die wordt vertrekt aan de 'klant' die een vraag heeft gesteld.">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+</archimate:Product>

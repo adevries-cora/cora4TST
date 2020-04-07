@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doorgeven statuswijziging inspectieopdracht"
+    id="a2071f5f-862f-4ef5-8ab7-ab7ffd1b7d95">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_790ff9fc-6ebc-4b5c-9244-e7ed64e07c3d.xml#790ff9fc-6ebc-4b5c-9244-e7ed64e07c3d"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_3992651c-c5bc-4d26-98d3-b328c80f7cf1.xml#3992651c-c5bc-4d26-98d3-b328c80f7cf1"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coördineren mutatieonderhoud"
+    id="139cf217-f7a4-4ae9-b2ec-00088fab1487"
+    documentation="Uitvoeren mutatieonderhoud is het bedrijfsproces waarmee onderhoudswerkzaamheden worden verricht aan eenheden waarvan de huurovereenkomst is beeindigd en indien van toepassing in rekening worden gebracht bij die vertrekkende huurder">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+</archimate:BusinessProcess>

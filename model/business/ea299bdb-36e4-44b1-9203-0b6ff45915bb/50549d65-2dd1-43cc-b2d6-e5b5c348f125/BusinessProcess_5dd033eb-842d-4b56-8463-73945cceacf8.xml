@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verhuren eenheden"
+    id="5dd033eb-842d-4b56-8463-73945cceacf8"
+    documentation="Verhuren eenheden is het bedrijfsproces waarmee aangaan en beeindigen van de huurovereenkomst met huurders wordt gerealiseerd inclusief het in rekening brengen van de netto huur">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Type proces"
+      value="Primair"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,12 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verkochte eenheid"
+    id="28397879-db20-4413-938b-16189b23ee49"
+    documentation="Verkochte eenheid is (de combinatie van) een fysieke woning, bedrijfsruimte, parkeerplaats enzovoorts, waarvan de eigenaar het eigendomsrecht heeft verkregen of het appartementsrecht waarvan de eigenaar het exclusieve gebruiksrecht heeft verkregen en automatisch lid is van de VvE.">
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="CORA-concepttype"
+      value="Product"/>
+</archimate:Product>

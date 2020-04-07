@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveren communicatie diensten"
+    id="ebe06349-e012-4a65-9183-dcbd4f8cdd4a">
+  <properties
+      key="CORA-concepttype"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Bron"
+      value="CORA 4.0"/>
+  <properties
+      key="Type proces"
+      value="Ondersteunend"/>
+</archimate:BusinessProcess>
